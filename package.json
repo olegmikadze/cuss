@@ -1,7 +1,7 @@
 {
-  "name": "cuss",
+  "name": "coparenter-cuss",
   "version": "1.5.0",
-  "description": "Map of English profane words to a rating of sureness",
+  "description": "Map of English profane words to a rating of sureness based off of cuss",
   "license": "MIT",
   "keywords": [
     "offensive",
@@ -10,7 +10,7 @@
     "word",
     "list"
   ],
-  "repository": "https://github.com/wooorm/cuss",
+  "repository": "https://git@github.com:nielswh/cuss.git",
   "bugs": "https://github.com/wooorm/cuss/issues",
   "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
   "contributors": [
